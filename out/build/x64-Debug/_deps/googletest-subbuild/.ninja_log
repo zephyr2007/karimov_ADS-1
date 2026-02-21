@@ -1,0 +1,21 @@
+# ninja log v6
+3	49	7933755210126296	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7e5cb7421d964ec4
+3	49	7933755210126296	C:/Users/Zephyr/Desktop/политех/Аисд/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7e5cb7421d964ec4
+73	3017	7933755239807291	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	3cbd953b28cf3d34
+73	3017	7933755239807291	C:/Users/Zephyr/Desktop/политех/Аисд/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	3cbd953b28cf3d34
+3017	3129	7933755239857302	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	6849eb41751ed333
+3017	3129	7933755239857302	C:/Users/Zephyr/Desktop/политех/Аисд/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	6849eb41751ed333
+3154	3200	7933755241627646	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	dfc675e3fbe6f81f
+3154	3200	7933755241627646	C:/Users/Zephyr/Desktop/политех/Аисд/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	dfc675e3fbe6f81f
+3200	3242	7933755242057291	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	8f2beda7c9c68428
+3200	3242	7933755242057291	C:/Users/Zephyr/Desktop/политех/Аисд/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	8f2beda7c9c68428
+3242	3284	7933755242475319	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	e5ce495bca007236
+3242	3284	7933755242475319	C:/Users/Zephyr/Desktop/политех/Аисд/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	e5ce495bca007236
+3284	3350	7933755243129388	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	cbb67da98791b9
+3284	3350	7933755243129388	C:/Users/Zephyr/Desktop/политех/Аисд/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	cbb67da98791b9
+3350	3389	7933755243536015	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	cda324d605bf2ceb
+3350	3389	7933755243536015	C:/Users/Zephyr/Desktop/политех/Аисд/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	cda324d605bf2ceb
+3389	3465	7933755244276480	CMakeFiles/googletest-populate-complete	ea9cbe9a14f5f67a
+3389	3465	7933755244276480	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ea9cbe9a14f5f67a
+3389	3465	7933755244276480	C:/Users/Zephyr/Desktop/политех/Аисд/out/build/x64-Debug/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	ea9cbe9a14f5f67a
+3389	3465	7933755244276480	C:/Users/Zephyr/Desktop/политех/Аисд/out/build/x64-Debug/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	ea9cbe9a14f5f67a
